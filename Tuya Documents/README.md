@@ -35,7 +35,7 @@
 * **SERVICE API:** Under "Service API" ensure these APIs are listed: `IoT Core`, `Authorization` and `Smart Home Scene Linkage`. To be sure, click subscribe again on every service.  Very important: **disable popup blockers** otherwise subscribing won't work without providing any indication of a failure. Make sure you authorize your Project to use those APIs:
 * Click "Service API" tab
 * Click "**Go to Authorize**" button
-* Select the API Groups from the dropdown and click `Subscribe` [screenshot](<https://github.com/sjpbailey/Documentation/blob/f4db201c45b14b5e79ef100b976d9901f4d55b45/Tuya%20Documents/Images/Screenshot%202023-06-18%20at%2011.14.31%20PM.pngg>)
+* Select the API Groups from the dropdown and click `Subscribe` [screenshot]([<https://github.com/sjpbailey/udi-tuya-poly-cloud-api-v3/blob/ffbbf456fa85dbeebc11b04bc04ba75a73b49203/images_go/Screenshot%202023-06-18%20at%2011.14.31%20PM.png](https://github.com/sjpbailey/Documentation/blob/41e7ad8d9171849ea9853a071866ae2da3ef4dfa/Tuya%20Documents/Images/Screenshot%202023-06-21%20at%202.35.55%20AM.png)>)
 
 ## Requirements-
 
