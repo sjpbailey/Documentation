@@ -5,7 +5,7 @@
 * ![Tuya-Bulb-Control](<https://github.com/sjpbailey/Documentation/blob/41e7ad8d9171849ea9853a071866ae2da3ef4dfa/Tuya%20Documents/Images/Screenshot%202023-06-21%20at%202.35.55%20AM.png>)
 
 * Device Model Numbers:
-* LED Strip V1 - [\u706f\u5e26\u63a7\u5236\u5668\uff08BK\uff09](https://www.treatlife.tech/products/smart-led-strip-lights){:target="_blank" rel="noopener"}
+* LED Strip V1 - [\u706f\u5e26\u63a7\u5236\u5668\uff08BK\uff09]((https://www.treatlife.tech/products/smart-led-strip-lights){:target="_blank" rel="noopener"})
 * LED Bulb V2 - [SL10](https://www.treatlife.tech/products/smart-color-changing-light-bulb-treatlife?variant=41499323367619)
 * Switch V0 - [SS01S\uff08\u706b\u7ebf\u8d1f\u8f7d\u7ebf\u4e0d\u5206\u7248\u672c\uff09BK\u7248\u672c](https://www.treatlife.tech/products/smart-light-switch-treatlife-wi-fi-light-switch-compatible-with-alexa-google-assistant-and-ifttt-single-pole-schedule-remote-control-neutral-wire-required-easy-installation-etl-listed-4-pack?variant=31727536472125)
 * Switch V1 - [SS01S(\u4e0d\u5206\u8d1f\u8f7d)\u4e50\u946b](https://www.treatlife.tech/products/smart-light-switch-treatlife-wi-fi-light-switch-compatible-with-alexa-google-assistant-and-ifttt-single-pole-schedule-remote-control-neutral-wire-required-easy-installation-etl-listed-4-pack?variant=31727536406589)
