@@ -11,8 +11,8 @@
 * Switch V1 - [SS01S(\u4e0d\u5206\u8d1f\u8f7d)\u4e50\u946b](https://www.treatlife.tech/products/smart-light-switch-treatlife-wi-fi-light-switch-compatible-with-alexa-google-assistant-and-ifttt-single-pole-schedule-remote-control-neutral-wire-required-easy-installation-etl-listed-4-pack?variant=31727536406589)
 * Switch V2 - [\u5f00\u5173(\u84dd\u7259+Wi-Fi)](https://www.treatlife.tech/products/3-way-smart-switch-wifi-alexa-neutral-wire-needed?variant=31727491842109)
 * Switch Dimmer - [DS01C(\u91cf\u4ea7\uff09)](https://www.treatlife.tech/products/treatlife-master-3-way-smart-dimmer-switch-2pack-works-with-alexa-google-home-neutral-wire-require)
-* Currently working on PIR or Proximity Sensors using Apache Pulsar, Ceiling Fan Switch controller by TreatLife and a USB smart plug by MOES. 
-* Soon to release a Relay module Node Server relay has four channels giving you four switches on the board. Also a Tuya Robot Smart Vacuum.
+* Currently working on PIR or Proximity Sensors using Apache Pulsar, Ceiling Fan Switch controller by TreatLife and a USB smart plug by MOES.
+* Soon to release a Relay module Node Server, Relay board has four channels giving you four relays no inputs. Also a Tuya Robot Smart Vacuum.
 
 ## Description
 
