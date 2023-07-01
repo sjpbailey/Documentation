@@ -7,6 +7,7 @@
 * Device Model Numbers:
 * LED Strip V1 - [\u706f\u5e26\u63a7\u5236\u5668\uff08BK\uff09](https://www.treatlife.tech/products/smart-led-strip-lights)
 * LED Bulb V2 - [SL10](https://www.treatlife.tech/products/smart-color-changing-light-bulb-treatlife?variant=41499323367619)
+* LED Bulb V2 - [Day Better](https://www.amazon.com/DAYBETTER-Changing-Compatible-Assistant-Multicolor/dp/B096TLXBZD/ref=asc_df_B096TLXBZD/?tag=hyprod-20&linkCode=df0&hvadid=647293218143&hvpos=&hvnetw=g&hvrand=5660852581644659885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014341&hvtargid=pla-1950936923753&psc=1&gclid=CjwKCAjw-vmkBhBMEiwAlrMeF-gbY3C1e7qL8Gy1HgWzu3X0YeH8Vgez1u-dTo3eqIBxVZxFDna6DRoCa38QAvD_BwE)
 * Switch V0 - [SS01S\uff08\u706b\u7ebf\u8d1f\u8f7d\u7ebf\u4e0d\u5206\u7248\u672c\uff09BK\u7248\u672c](https://www.treatlife.tech/products/smart-light-switch-treatlife-wi-fi-light-switch-compatible-with-alexa-google-assistant-and-ifttt-single-pole-schedule-remote-control-neutral-wire-required-easy-installation-etl-listed-4-pack?variant=31727536472125)
 * Switch V1 - [SS01S(\u4e0d\u5206\u8d1f\u8f7d)\u4e50\u946b](https://www.treatlife.tech/products/smart-light-switch-treatlife-wi-fi-light-switch-compatible-with-alexa-google-assistant-and-ifttt-single-pole-schedule-remote-control-neutral-wire-required-easy-installation-etl-listed-4-pack?variant=31727536406589)
 * Switch V2 - [\u5f00\u5173(\u84dd\u7259+Wi-Fi)](https://www.treatlife.tech/products/3-way-smart-switch-wifi-alexa-neutral-wire-needed?variant=31727491842109)
