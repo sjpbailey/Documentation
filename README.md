@@ -1,3 +1,5 @@
 # Documentation
 
- Documents for Node Servers
+* MIT License
+
+* Documents for Node Servers
