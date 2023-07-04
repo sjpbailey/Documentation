@@ -1,6 +1,6 @@
 # Universal Devices Tuya Product NodeServer
 
-* ![Tuya Sweeper](<https://github.com/sjpbailey/Documentation/blob/376539c10801b161a066426a90f09d0a2026b84c/Tuya%20Robot%20Sweeper/images_go/Tuya.IoT.API.Setup%20(3).pdf>)
+* ![Tuya Sweeper](<https://github.com/sjpbailey/Documentation/blob/eae2457d3c3c6016d8a92fd06dfb4bcad3790ba4/Tuya%20Robot%20Sweeper/images_go/RobotPic.png>)
 
 ## Currently for Tuya TreatLife Dimmers, Switches, LED Bulbs and Strip Lights
 
@@ -8,17 +8,8 @@
 
 ![Tuya Robot Sweeper ](<https://github.com/sjpbailey/Documentation/blob/eb79ac7e3b3bdfe9227e1599c1442cbdfbc881a9/Tuya%20Robot%20Sweeper/images_go/Sweeper_1.png>)
 
-
 * Device Model Numbers:
-* LED Strip V1 - \u706f\u5e26\u63a7\u5236\u5668\uff08BK\uff09
-* LED Bulb V2 - SL10
-* Switch V0 - SS01S\uff08\u706b\u7ebf\u8d1f\u8f7d\u7ebf\u4e0d\u5206\u7248\u672c\uff09BK\u7248\u672c
-* Switch V1 - SS01S(\u4e0d\u5206\u8d1f\u8f7d)\u4e50\u946b
-* Switch V2 - \u5f00\u5173(\u84dd\u7259+Wi-Fi)
-* Switch Dimmer - DS01C(\u91cf\u4ea7\uff09)
-* Not Added Yet Need to add Asynchronous I/O to scan status and for Light Control
-
-## Description
+* Smart Life - G20 Sweeper Vacuum
 
 * This pulls Device Data from your configured Tuya API Account
 * You must first create a Tuya Account and have your Devices functional on the Tuya Smart Phone App.
