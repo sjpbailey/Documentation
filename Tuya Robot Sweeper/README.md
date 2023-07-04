@@ -1,4 +1,4 @@
-# Universal Devices Tuya Robot Sweeper NodeServer
+# Universal Devices Tuya Product NodeServer
 
 * ![Tuya Sweeper](<https://github.com/sjpbailey/Documentation/blob/eae2457d3c3c6016d8a92fd06dfb4bcad3790ba4/Tuya%20Robot%20Sweeper/images_go/RobotPic.png>)
 
