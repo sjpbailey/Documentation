@@ -8,7 +8,7 @@
 ![Tuya Robot Sweeper ](<https://github.com/sjpbailey/Documentation/blob/eb79ac7e3b3bdfe9227e1599c1442cbdfbc881a9/Tuya%20Robot%20Sweeper/images_go/Sweeper_1.png>)
 
 * Device Model Numbers:
-* Smart Life - G20 Sweeper Vacuum
+* Smart Life - [G20 Sweeper Vacuum](https://www.amazon.com/Robot-Vacuum-Tangle-Free-Schedule-Self-Charging/dp/B0BXL83VSN/ref=sr_1_5?crid=2JSS5DAOX71LM&keywords=vacuum+mop+robot+lcrock&qid=1688495212&sprefix=vacuum+mop+robot+lcrock%2Caps%2C124&sr=8-5)
 
 * This pulls Device Data from your configured Tuya API Account
 * You must first create a Tuya Account and have your Devices functional on the Tuya Smart Phone App.
