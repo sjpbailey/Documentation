@@ -1,12 +1,13 @@
 # Universal Devices Tuya Product NodeServer
 
-* Robot Sweeper Vacuum
-
-![Tuya Relay ](<https://github.com/sjpbailey/Documentation/blob/eb79ac7e3b3bdfe9227e1599c1442cbdfbc881a9/Tuya%20Robot%20Sweeper/images_go/Sweeper_1.png>)
+* ![Tuya Sweeper](<https://github.com/sjpbailey/Documentation/blob/376539c10801b161a066426a90f09d0a2026b84c/Tuya%20Robot%20Sweeper/images_go/Tuya.IoT.API.Setup%20(3).pdf>)
 
 ## Currently for Tuya TreatLife Dimmers, Switches, LED Bulbs and Strip Lights
 
-* ![Tuya-Bulb-Control](<https://github.com/sjpbailey/Documentation/blob/376539c10801b161a066426a90f09d0a2026b84c/Tuya%20Robot%20Sweeper/images_go/Screenshot%202023-06-21%20at%202.35.55%20AM.png>)
+* Robot Sweeper Vacuum
+
+![Tuya Robot Sweeper ](<https://github.com/sjpbailey/Documentation/blob/eb79ac7e3b3bdfe9227e1599c1442cbdfbc881a9/Tuya%20Robot%20Sweeper/images_go/Sweeper_1.png>)
+
 
 * Device Model Numbers:
 * LED Strip V1 - \u706f\u5e26\u63a7\u5236\u5668\uff08BK\uff09
