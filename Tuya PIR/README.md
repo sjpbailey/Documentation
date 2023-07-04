@@ -1,4 +1,4 @@
-# Universal Devices Tuya PIR Motion NodeServer
+# Universal Devices Tuya Product NodeServer
 
 * ![Tuya PIR ](<https://github.com/sjpbailey/Documentation/blob/0eea8cebcafbc09eb8e7c6ece637cba29c95bba5/Tuya%20PIR/images_go/PIR_Motion.png>)
 
