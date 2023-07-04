@@ -1,10 +1,9 @@
-# Universal Devices Tuya Product NodeServer
+# Universal Devices Tuya Robot Sweeper NodeServer
 
 * ![Tuya Sweeper](<https://github.com/sjpbailey/Documentation/blob/eae2457d3c3c6016d8a92fd06dfb4bcad3790ba4/Tuya%20Robot%20Sweeper/images_go/RobotPic.png>)
 
-## Currently for Tuya TreatLife Dimmers, Switches, LED Bulbs and Strip Lights
+## Currently for Tuya Smart Life Robot Sweeper Vacuum
 
-* Robot Sweeper Vacuum
 
 ![Tuya Robot Sweeper ](<https://github.com/sjpbailey/Documentation/blob/eb79ac7e3b3bdfe9227e1599c1442cbdfbc881a9/Tuya%20Robot%20Sweeper/images_go/Sweeper_1.png>)
 
