@@ -4,8 +4,9 @@
 
 ## Currently for Tuya Smart Life Robot Sweeper Vacuum
 
-
 ![Tuya Robot Sweeper ](<https://github.com/sjpbailey/Documentation/blob/eb79ac7e3b3bdfe9227e1599c1442cbdfbc881a9/Tuya%20Robot%20Sweeper/images_go/Sweeper_1.png>)
+
+### THESE ARE THE TESTED NODES THAT WORK ALL OTHERS WILL NOT INSTALL UNTIL ADDED TO THE LIST OF TESTED DEVICES. DOWNLOAD NODE SERVER "TUYAPULSAR" FIRST TO SEE YOUR DEVICE JSON
 
 * Device Model Numbers:
 * Smart Life - [G20 Sweeper Vacuum](https://www.amazon.com/Robot-Vacuum-Tangle-Free-Schedule-Self-Charging/dp/B0BXL83VSN/ref=sr_1_5?crid=2JSS5DAOX71LM&keywords=vacuum+mop+robot+lcrock&qid=1688495212&sprefix=vacuum+mop+robot+lcrock%2Caps%2C124&sr=8-5)

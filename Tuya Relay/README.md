@@ -8,6 +8,8 @@
 
 * ![Tuya Relay Control](<https://github.com/sjpbailey/Documentation/blob/9e30fcd555afc00b7a5d2a2d505dbe797eb93a9b/Tuya%20Relay/images_go/Relay_1.png>)
 
+### THESE ARE THE TESTED NODES THAT WORK ALL OTHERS WILL NOT INSTALL UNTIL ADDED TO THE LIST OF TESTED DEVICES. DOWNLOAD NODE SERVER "TUYAPULSAR" FIRST TO SEE YOUR DEVICE JSON
+
 * Device Model Numbers:
 
 * Relay Tested [Smart Home Newgoal](https://www.amazon.com/Newgoal-4-Channel-Momentary-Adjustable-Compatible/dp/B08BQXL4GX/ref=sr_1_5?crid=J835HTBEK9XF&keywords=smart%2Bhome%2Btuya%2Bwifi%2Bfour%2Bchannel%2Brelay&qid=1688136707&s=industrial&sprefix=smart%2Bhome%2Btuya%2Bwifi%2Bfour%2Bchannel%2Brelay%2Cindustrial%2C170&sr=1-5&th=1)

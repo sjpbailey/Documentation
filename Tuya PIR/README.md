@@ -6,6 +6,8 @@
 
 * ![Tuya Motion Control](<https://github.com/sjpbailey/Documentation/blob/0eea8cebcafbc09eb8e7c6ece637cba29c95bba5/Tuya%20PIR/images_go/Motion_1.png>)
 
+### THESE ARE THE TESTED NODES THAT WORK ALL OTHERS WILL NOT INSTALL UNTIL ADDED TO THE LIST OF TESTED DEVICES. DOWNLOAD NODE SERVER "TUYAPULSAR" FIRST TO SEE YOUR DEVICE JSON
+
 * Device Model Number Tested:
 * PIR 1 - [Motion](https://www.amazon.com/dp/B07SGRKZ1M?ref_=cm_sw_r_apin_dp_NDTNHSGP0TFNJ6VXX4VH)
 * PIR 2 - [Motion](https://www.amazon.com/Wireless-Smart-Motion-Sensor-Detector/dp/B08T68YPY1/ref=sr_1_2?crid=158F1N31QEKDD&keywords=pir+motion+tuya&qid=1688801618&sprefix=pir+motion+tuya%2Caps%2C127&sr=8-2)
