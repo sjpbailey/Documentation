@@ -4,6 +4,8 @@
 
 * ![Tuya-Bulb-Control](<https://github.com/sjpbailey/Documentation/blob/41e7ad8d9171849ea9853a071866ae2da3ef4dfa/Tuya%20Documents/Images/Screenshot%202023-06-21%20at%202.35.55%20AM.png>)
 
+## THESE ARE THE TESTED NODES THAT WORK ALL OTHERS WILL NOT INSTALL UNTIL ADDED TO THE LIST OF TESTED DEVICES. DOWNLOAD NODE SERVER "TUYAPULSAR" FIRST TO SEE YOUR DEVICE JSON
+
 * Device Model Numbers:
 * LED Strip V1 - [\u706f\u5e26\u63a7\u5236\u5668\uff08BK\uff09](https://www.treatlife.tech/products/smart-led-strip-lights)
 * LED Bulb V2 - [SL10](https://www.treatlife.tech/products/smart-color-changing-light-bulb-treatlife?variant=41499323367619)
