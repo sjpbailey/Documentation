@@ -7,7 +7,10 @@
 * ![Tuya Motion Control](<https://github.com/sjpbailey/Documentation/blob/0eea8cebcafbc09eb8e7c6ece637cba29c95bba5/Tuya%20PIR/images_go/Motion_1.png>)
 
 * Device Model Number Tested:
-* PIR - [Motion](https://www.amazon.com/dp/B07SGRKZ1M?ref_=cm_sw_r_apin_dp_NDTNHSGP0TFNJ6VXX4VH)
+* PIR 1 - [Motion](https://www.amazon.com/dp/B07SGRKZ1M?ref_=cm_sw_r_apin_dp_NDTNHSGP0TFNJ6VXX4VH)
+* PIR 2 - [Motion](https://www.amazon.com/Wireless-Smart-Motion-Sensor-Detector/dp/B08T68YPY1/ref=sr_1_2?crid=158F1N31QEKDD&keywords=pir+motion+tuya&qid=1688801618&sprefix=pir+motion+tuya%2Caps%2C127&sr=8-2)
+* PIR 3 - [Motion](https://www.amazon.com/dp/B08MFMDCPH/ref=emc_b_5_t)
+* Door Switch - [Contacts](https://www.amazon.com/Wireless-Notification-Control-Security-Compatible/dp/B08HRZJH8M/ref=sr_1_3?crid=2SBEATRM9VLET&keywords=tuya+door+switch+alarm&qid=1688801773&s=hi&sprefix=tuya+door+switch+alarm%2Ctools%2C137&sr=1-3)
 
 ## Description
 
