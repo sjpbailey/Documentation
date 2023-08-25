@@ -13,7 +13,7 @@
 ### Defaults
 
 * Default Short Poll:  Every 10 minutes
-* Default Long Poll: Ever 30 minutes (heartbeat)
+* Default Long Poll: Every 30 minutes (heartbeat)
 
 #### User Provided
 
