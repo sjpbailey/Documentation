@@ -1,12 +1,12 @@
-# Jaguar Land Rover Node Server Custom Parameters
+# Jaguar Land Rover Node Server
 
-![Land Rover ](<https://github.com/sjpbailey/udi-poly-jaguar-landrover-v3/blob/e83be002bea14507fdb6a1b8e8ef0a4238bab394/images/IMG_9194.jpg>)
+![Land Rover ](<https://github.com/sjpbailey/Documentation/blob/def2b49d817b030fc50568c860b3b70b27d91154/Jaguar_LandRover/images/IMG_9194.jpg>)
 
 * The purpose of this Nodeserver is for custom control of Jaguar, Land Rover, Range Rover Vehicles.
 
 * Python 3.9
 
-![Admin Console ](<https://github.com/sjpbailey/udi-poly-jaguar-landrover-v3/blob/17cbfedbd3d53bc7d8987e24b3678cd19c415ec6/images/Screenshot%202023-08-19%20at%2010.07.40%20AM.png>)
+![Admin Console ](<https://github.com/sjpbailey/Documentation/blob/e12c57def5151f4182e4f43c8368fbb8b738f064/Jaguar_LandRover/images/IMG_9195.jpg>)
 
 ## Configuration
 
