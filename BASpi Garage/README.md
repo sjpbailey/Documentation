@@ -15,7 +15,7 @@
 
 * Doors 1-6 you can use the controller for one, two, three or all the way up to 6 doors.
 
-![BASpi 6U6R One](https://github.com/sjpbailey/udi-poly-basgarage-python-master-v3/blob/master/Images/Controller_garage_doors.png)
+![BASpi 6U6R One](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/Controller_garage_doors.png)
 
 ### BASpi-SYS6U6R DIY BacNet Control Device by Contemporary Controls
 
