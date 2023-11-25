@@ -56,12 +56,11 @@ Please Visit these links for information & configuration of this Device.
 
 ![Installed Example Camera](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/IMG_2081.jpg)
 
-* Requirments
+* Requirements
 * Python 3.7.7
 * bascontrolns>=0.0.3
 * udi_interface>=3.0.8
 * requests
-* urllib3
 
 * Supported Nodes
 * Six 6 Universal Inputs
@@ -69,7 +68,7 @@ Please Visit these links for information & configuration of this Device.
 
 ##### Configuration Example
 
-![Paramerter Input Example](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/basgarage-Key.png)
+![Parameter Input Example](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/basgarage-Key.png)
 
 ##### Defaults
 
