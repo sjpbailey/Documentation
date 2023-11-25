@@ -11,7 +11,7 @@
 
 ## Based on the Contemporary Controls BASpi6U6R Device
 
-![BASpi 6U6R Network Poly](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/Class_nodses_garage_door.png)
+![BASpi 6U6R Network Poly](BASpi Garage/Arcive Images/Class_nodses_garage_door.png)
 
 * Doors 1-6 you can use the controller for one, two, three or all the way up to 6 doors.
 
