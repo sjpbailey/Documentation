@@ -48,13 +48,13 @@ Please Visit these links for information & configuration of this Device.
 
 [Resistor Installation: Review with Door, IOS App and Camera Testing](https://youtu.be/mVyMzNkizIs)
 
-![Resistor Installation: CAD Drawing](https://github.com/sjpbailey/udi-poly-basgarage-python-master-v3/blob/master/Images/CAD_Wiring.png)
+![Resistor Installation: CAD Drawing](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/CAD_Wiring.png)
 
-![Input Configuration](https://github.com/sjpbailey/udi-poly-basgarage-python-master-v3/blob/master/Images/shot_3.png)
+![Input Configuration](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/shot_3.png)
 
-![Installed Example Device](https://github.com/sjpbailey/udi-poly-basgarage-python-master-v3/blob/master/Images/IMG_2082.jpg)
+![Installed Example Device](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/IMG_2082.jpg)
 
-![Installed Example Camera](https://github.com/sjpbailey/udi-poly-basgarage-python-master-v3/blob/master/Images/IMG_2081.jpg)
+![Installed Example Camera](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/IMG_2081.jpg)
 
 * Requirments
 * Python 3.7.7
@@ -69,7 +69,7 @@ Please Visit these links for information & configuration of this Device.
 
 ##### Configuration Example
 
-![Paramerter Input Example](https://github.com/sjpbailey/udi-poly-basgarage-python-master-v3/blob/master/Images/basgarage-Key.png)
+![Paramerter Input Example](https://github.com/sjpbailey/Documentation/blob/bb05604959da7eceb159ad6069cae357785ef6ea/BASpi%20Garage/Arcive%20Images/basgarage-Key.png)
 
 ##### Defaults
 
