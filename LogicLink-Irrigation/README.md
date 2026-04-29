@@ -187,27 +187,6 @@ Example commands:
   "zone": 1
 }
 
-Important Boundary
-
-The plugin is an integration layer.
-
-The controller backend owns:
-
-* Hardware I/O
-* BACnet point logic
-* Priority handling
-* Controller configuration
-* Scheduling authority where applicable
-* Safety rules
-
-The plugin owns:
-
-* Node creation
-* Frontend status display
-* User command forwarding
-* Discovery presentation
-* Platform integration
-
 ## Project Status
 
 Initial documentation and licensing established.
@@ -217,3 +196,13 @@ Next steps:
 - Implement irrigation controller plugin structure
 - Integrate with LogicLink backend
 
+## Hardware Availability
+
+This plugin is designed to operate with LogicLink irrigation controllers.
+
+LogicLink hardware is currently in active development and limited deployment.  
+Public availability will follow after production validation is complete.
+
+This plugin may be installed and reviewed, but full functionality requires a supported LogicLink controller.
+
+For evaluation, integration discussions, or early access, please contact LogicLink.
