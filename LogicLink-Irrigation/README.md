@@ -129,23 +129,25 @@ Example concept:
   "mode": "AUTO",
   "backend": "online"
 }
+```
 
-Zone Node
+## Zone Node
 
 Each irrigation zone is represented as its own node.
 
 A zone node may expose:
 
-* Zone on/off status
-* Zone name
-* Manual start command
-* Manual stop command
-* Runtime remaining
-* Schedule status
-* Fault or disabled state
+ Zone on/off status
+ Zone name
+ Manual start command
+ Manual stop command
+ Runtime remaining
+ Schedule status
+ Fault or disabled state
 
 Example concept:
 
+```json
 {
   "node": "zone_1",
   "name": "Front Lawn",
@@ -156,6 +158,7 @@ Example concept:
   "remaining_seconds": 0,
   "schedule_active": true
 }
+```
 
 Example Backend JSON
 
@@ -165,6 +168,7 @@ The plugin should read from backend JSON instead of guessing hardware state.
 
 Example controller response:
 
+``` json
 {
   "controller": {
     "online": true,
@@ -189,6 +193,7 @@ Example controller response:
     }
   ]
 }
+```
 
 Command Model
 
@@ -198,6 +203,7 @@ The plugin should not directly own hardware control.
 
 Example commands:
 
+```json
 {
   "command": "start_zone",
   "zone": 1,
@@ -207,4 +213,12 @@ Example commands:
   "command": "stop_zone",
   "zone": 1
 }
+```
 
+## Contact
+
+For questions, integration discussions, or early access to LogicLink hardware:
+
+Please use the Universal Devices (UDI) community forum or messaging system to reach out.
+
+Commercial inquiries and partnership opportunities are welcome.
