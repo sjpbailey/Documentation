@@ -1,0 +1,28 @@
+# LogicLink License
+
+Copyright (c) 2026 Steven Bailey / LogicLink.  
+All rights reserved.
+
+## Permitted Use
+
+This software is provided for use with LogicLink hardware and systems.
+
+End users may install and use this software within supported environments, including node server or plugin platforms, for the purpose of operating LogicLink controllers.
+
+## Restrictions
+
+You may NOT:
+
+- Copy, modify, or redistribute this software
+- Use this software to develop or support competing hardware or systems
+- Sell, sublicense, or commercially distribute this software without written permission
+- Reverse engineer or extract proprietary logic for reuse
+
+## Ownership
+
+All controller logic, backend systems, BACnet implementation, and hardware integration remain the exclusive property of LogicLink.
+
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind.
+
