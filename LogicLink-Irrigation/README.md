@@ -208,3 +208,12 @@ The plugin owns:
 * Discovery presentation
 * Platform integration
 
+## Project Status
+
+Initial documentation and licensing established.
+
+Next steps:
+- Define backend API contract
+- Implement irrigation controller plugin structure
+- Integrate with LogicLink backend
+
