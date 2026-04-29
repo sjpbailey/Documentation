@@ -1,6 +1,6 @@
 # LogicLink Irrigation Plugin
 
-LogicLink Irrigation is a production-oriented irrigation controller plugin designed to connect local irrigation hardware into a clean control system interface.
+LogicLink Irrigation is a production-oriented irrigation controller plugin designed to integrate LogicLink hardware with automation platforms through a structured backend-driven architecture.
 
 This plugin is part of the LogicLink controller ecosystem and is intended to support reliable local automation, clear status reporting, and future BACnet-based controller integration.
 
@@ -77,7 +77,7 @@ This project and its related controller software are owned by LogicLink.
 
 ## License
 
-See `LICENSE.md`
+See `LICENSE`
 
 Add it as text first. Screen captures help later, but the repo needs copyable examples.
 
@@ -129,6 +129,7 @@ Typical controller values include:
 - Discovery command
 - Global controller health
 - Backend communication status
+  
 Example concept:
 
 ```json
@@ -147,13 +148,13 @@ Each irrigation zone is represented as its own node.
 
 A zone node may expose:
 
- Zone on/off status
- Zone name
- Manual start command
- Manual stop command
- Runtime remaining
- Schedule status
- Fault or disabled state
+- Zone on/off status
+- Zone name
+- Manual start command
+- Manual stop command
+- Runtime remaining
+- Schedule status
+- Fault or disabled state
 
 Example concept:
 
@@ -178,7 +179,7 @@ The plugin should read from backend JSON instead of guessing hardware state.
 
 Example controller response:
 
-``` json
+```json
 {
   "controller": {
     "online": true,
