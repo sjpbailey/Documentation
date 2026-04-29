@@ -97,10 +97,20 @@ Next steps:
 
 This plugin is designed to operate with LogicLink irrigation controllers.
 
-LogicLink hardware is currently in active development and limited deployment.  
-Public availability will follow after production validation is complete.
+LogicLink controllers are deployed using a pre-configured runtime environment that includes controller logic, BACnet integration, and supporting system services.
 
-This plugin may be installed and reviewed, but full functionality requires a supported LogicLink controller.
+### Deployment Model
+
+Supported deployment approaches include:
+
+- Pre-provisioned LogicLink controller hardware
+- Customer-supplied hardware with LogicLink runtime installation
+
+The LogicLink runtime is distributed as part of a controlled and licensed deployment.
+
+While standard hardware components may be user-supplied, full functionality requires a LogicLink runtime environment.
+
+This plugin may be installed and reviewed, but full operation requires a supported LogicLink controller.
 
 For evaluation, integration discussions, or early access, please contact LogicLink.
 
