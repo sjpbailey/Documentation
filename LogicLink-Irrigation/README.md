@@ -83,6 +83,27 @@ Add it as text first. Screen captures help later, but the repo needs copyable ex
 
 Put this near the bottom:
 
+## Project Status
+
+Initial documentation and licensing established.
+
+Next steps:
+
+- Define backend API contract
+- Implement irrigation controller plugin structure
+- Integrate with LogicLink backend
+
+## Hardware Availability
+
+This plugin is designed to operate with LogicLink irrigation controllers.
+
+LogicLink hardware is currently in active development and limited deployment.  
+Public availability will follow after production validation is complete.
+
+This plugin may be installed and reviewed, but full functionality requires a supported LogicLink controller.
+
+For evaluation, integration discussions, or early access, please contact LogicLink.
+
 ## Example Node / Zone Mapping
 
 The plugin separates the controller node from the zone nodes.
@@ -187,22 +208,3 @@ Example commands:
   "zone": 1
 }
 
-## Project Status
-
-Initial documentation and licensing established.
-
-Next steps:
-- Define backend API contract
-- Implement irrigation controller plugin structure
-- Integrate with LogicLink backend
-
-## Hardware Availability
-
-This plugin is designed to operate with LogicLink irrigation controllers.
-
-LogicLink hardware is currently in active development and limited deployment.  
-Public availability will follow after production validation is complete.
-
-This plugin may be installed and reviewed, but full functionality requires a supported LogicLink controller.
-
-For evaluation, integration discussions, or early access, please contact LogicLink.
