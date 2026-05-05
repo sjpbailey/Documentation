@@ -3,25 +3,81 @@
 Copyright (c) 2026 Steven Bailey / LogicLink.  
 All rights reserved.
 
-## Permitted Use
+---
 
-This software is provided for use with LogicLink hardware and systems.
+## 1. Scope
 
-End users may install and use this software within supported environments, including node server or plugin platforms, for the purpose of operating LogicLink controllers.
+This software, including all source code, compiled code, controller logic, BACnet integration, APIs, and associated documentation (collectively, the "Software"), is proprietary to LogicLink.
 
-## Restrictions
+---
+
+## 2. Permitted Use
+
+End users are granted a limited, non-exclusive, non-transferable license to:
+
+- Install and use the Software solely with LogicLink hardware or authorized LogicLink systems
+- Operate the Software within supported environments (including UDI node servers, plugins, or local controller deployments)
+- Use the Software for personal, commercial, or integrator use **only as intended**
+
+---
+
+## 3. Restrictions (Strict)
 
 You may NOT:
 
-- Copy, modify, redistribute, or create derivative works from this software
-- Use this software to develop or support competing hardware or systems
-- Sell, sublicense, or commercially distribute this software without written permission
-- Reverse engineer or extract proprietary logic for reuse
+- Copy, modify, adapt, translate, or create derivative works of the Software
+- Reverse engineer, decompile, disassemble, or attempt to extract source logic
+- Use the Software to develop, support, or integrate competing hardware or control systems
+- Remove, alter, or obscure any copyright, branding, or proprietary notices
+- Distribute, sublicense, sell, lease, or provide the Software to third parties without explicit written permission from LogicLink
+- Host or expose the Software as a service for others without authorization
 
-## Ownership
+---
 
-All controller logic, backend systems, BACnet implementation, and hardware integration remain the exclusive property of LogicLink.
+## 4. Hardware Binding
 
-## Disclaimer
+This Software is licensed for use **only with LogicLink-approved hardware or systems**.
 
-This software is provided "as is", without warranty of any kind.
+Use of this Software with non-LogicLink hardware, or for the purpose of replicating LogicLink functionality, is strictly prohibited.
+
+---
+
+## 5. Ownership
+
+All rights, title, and interest in and to the Software remain exclusively with LogicLink.
+
+No ownership rights are transferred under this license.
+
+---
+
+## 6. Enforcement
+
+Unauthorized use, duplication, or distribution of this Software constitutes a violation of this license and may result in:
+
+- Immediate termination of license rights
+- Legal action
+- Claims for damages and injunctive relief
+
+---
+
+## 7. Disclaimer
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+
+LogicLink shall not be liable for any damages arising from use of this Software.
+
+---
+
+## 8. Contact
+
+For licensing inquiries, commercial use, or permissions:
+
+LogicLink  
+Steven Bailey  
+(Provide official contact method here)
+
+---
