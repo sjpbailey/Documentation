@@ -14,7 +14,7 @@ This project demonstrates:
 
 ---
 
-# System Architecture
+## System Architecture
 
 | Service | Port | Description |
 |---|---|---|
@@ -26,7 +26,7 @@ This project demonstrates:
 
 ---
 
-# Screenshots
+## Screenshots
 
 ## LogicLink Front Page (8098)
 
@@ -52,7 +52,7 @@ This project demonstrates:
 
 ---
 
-# Current Features
+## Current Features
 
 - Live equipment status
 - Pool temperatures
@@ -69,7 +69,7 @@ This project demonstrates:
 
 ---
 
-# PG3 / eisy Integration
+## PG3 / eisy Integration
 
 The LogicLink Pool PG3 integration currently supports:
 
@@ -81,7 +81,7 @@ The LogicLink Pool PG3 integration currently supports:
 
 ---
 
-# Future Direction
+## Future Direction
 
 Future LogicLink development includes:
 
@@ -95,6 +95,16 @@ Future LogicLink development includes:
 
 ---
 
-# License
+## Development Status
+
+This repository contains an internal LogicLink development build intended for evaluation, testing, and integration development with authorized LogicLink hardware and controller systems.
+
+LogicLink hardware, firmware, and software are currently under active development and are not yet released as general-purpose consumer products.
+
+This software is tightly coupled to LogicLink controller architecture and is not intended to function as a standalone public solution without compatible LogicLink hardware, services, and supporting infrastructure.
+
+The repository is provided primarily for development documentation, architecture review, API integration reference, and UDI/eisy integration evaluation.
+
+## License
 
 See [LICENSE](LICENSE)
