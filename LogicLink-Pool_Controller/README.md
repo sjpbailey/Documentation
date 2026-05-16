@@ -11,7 +11,8 @@ This project demonstrates:
 - API-first architecture
 - Multi-service local automation architecture
 - BACnet integration direction for future LogicLink systems
-
+- Requires active LogicLink controller hardware and local LogicLink services. 
+- This repository is not intended as a standalone public software package.
 ---
 
 ## System Architecture
