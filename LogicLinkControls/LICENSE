@@ -1,0 +1,191 @@
+# LogicLink Commercial License v1.0
+
+**Effective Date:** July 9, 2026
+
+Copyright (c) 2026 Steven Bailey / LogicLink.
+All Rights Reserved.
+
+---
+
+## 1. Ownership
+
+This Software and all associated materials are proprietary intellectual property of LogicLink.
+
+The term **"Software"** includes, but is not limited to:
+
+- Source code
+- Object code
+- Firmware
+- Controller software
+- BACnet integration technology
+- APIs
+- Configuration tools
+- User interfaces
+- JavaScript applications
+- Swift applications
+- Python applications
+- Documentation
+- Graphics
+- Design files
+- Hardware designs
+- Build systems
+- Configuration files
+- Project architecture
+- Examples and sample code
+
+All rights not expressly granted by this License are reserved exclusively by LogicLink.
+
+---
+
+## 2. Limited License
+
+LogicLink grants authorized users a limited, non-exclusive, non-transferable, revocable license to use this Software solely as authorized by LogicLink.
+
+No ownership rights are transferred under this License.
+
+---
+
+## 3. Restrictions
+
+Unless expressly authorized in writing by LogicLink, you may NOT:
+
+- Copy the Software
+- Modify the Software
+- Create derivative works
+- Redistribute any portion of the Software
+- Publish the source code
+- Reverse engineer, decompile, or disassemble the Software except where prohibited by applicable law
+- Sell, sublicense, lease, rent, or transfer the Software
+- Use the Software to develop, support, or promote competing products or services
+- Remove or alter copyright notices
+- Remove LogicLink branding or proprietary notices
+- Use LogicLink trademarks without written permission
+
+---
+
+## 4. Authorized Use
+
+This Software may only be used:
+
+- With LogicLink products;
+- Under a commercial license issued by LogicLink; or
+- Under another written agreement with LogicLink.
+
+Any other use requires prior written permission from LogicLink.
+
+---
+
+## 5. No Open Source Grant
+
+This Software is **NOT Open Source**.
+
+Availability of this Software through GitHub, source archives, customer distributions, or any other distribution mechanism **does NOT grant permission** to:
+
+- Copy
+- Modify
+- Redistribute
+- Publish
+- Create derivative works
+
+unless expressly authorized in writing by LogicLink.
+
+No rights are granted under any open-source license, including but not limited to:
+
+- MIT License
+- Apache License 2.0
+- GNU General Public License (GPL)
+- GNU Lesser General Public License (LGPL)
+- BSD License
+
+This Software is licensed exclusively under the LogicLink Commercial License.
+- MPL
+- Any Creative Commons License
+- Any other Open Source license
+
+unless expressly stated in a separate written agreement signed by LogicLink.
+
+---
+
+## 6. Intellectual Property
+
+The Software and all associated intellectual property remain the exclusive property of LogicLink.
+
+Nothing in this License transfers ownership of:
+
+- Copyrights
+- Trademarks
+- Trade Secrets
+- Controller Designs
+- Hardware Designs
+- Firmware
+- Software Architecture
+- BACnet Technology
+- User Interfaces
+- Graphics
+- Documentation
+- Product Names
+- Logos
+- Branding
+
+---
+
+## 7. Disclaimer
+
+THIS SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LOGICLINK DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+
+---
+
+## 8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LOGICLINK SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+---
+
+## 9. Trademarks
+
+LogicLink, LogicLink Controls, associated logos, graphics, product names, trademarks, and branding are proprietary assets of LogicLink.
+
+No trademark rights are granted under this License.
+
+---
+
+## 10. Commercial Licensing
+
+Commercial licensing, OEM licensing, distribution agreements, consulting services, and technology partnerships are available directly from LogicLink.
+
+**Licensing Contact**
+
+Steven Bailey  
+LogicLink
+
+sjpbailey@comcast.net
+
+Website:
+
+https://logiclinkcontrols.com
+
+---
+
+## 11. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the State of Arizona, United States, without regard to its conflict of law provisions.
+
+---
+
+## 12. Entire Agreement
+
+This License constitutes the entire agreement governing the use of this Software unless superseded by a separate written agreement signed by LogicLink.
+
+---
+
+**Copyright (c) 2026 Steven Bailey / LogicLink.**
+
+=======
+**All Rights Reserved.**
+>>>>>>> 57e4c2c8c6d9c16619e73da101b6817d09b1347b
