@@ -1,110 +1,65 @@
-# LogicLink Pool Controller
+# LogicLink eisy BACnet Bridge
+# Copyright (c) 2026 Steven Bailey / LogicLink. All rights reserved.
 
-LogicLink Pool Controller integration and PG3/eisy showcase build.
+## Purpose
 
-This project demonstrates:
+Native BACnet proof and future PG3/eisy bridge for LogicLink controllers.
 
-- Pool Controller web interface
-- Pump Portal integration
-- Scheduler integration
-- PG3/eisy integration
-- API-first architecture
-- Multi-service local automation architecture
-- BACnet integration direction for future LogicLink systems
+This project is separate from `bacnet3_project`.
 
----
+`bacnet3_project` remains the Bailey Gateway / Swift backend project.
 
-## System Architecture
+This repo is for:
 
-| Service | Port | Description |
-|---|---|---|
-| Front Page | 8098 | LogicLink Front Launcher |
-| Pump Portal | 8080 | Pump control system |
-| Pool Controller | 8081 | Pool automation controller |
-| Scheduler | 9090 | Pump scheduler |
-| LL8 Config/API | 8099 | Hardware I/O and configuration |
+- eisy / FreeBSD BACnet discovery tests
+- LogicLink BACnet device discovery
+- BACnet object reads
+- BACnet point value reads
+- future BACnet writes
+- future PG3 node creation
+- future UDI / eisy integration
 
----
+## Current Proof
 
-## Screenshots
+Confirmed on eisy:
 
-## LogicLink Front Page (8098)
+- Python 3.11 venv
+- bacpypes 0.19.0
+- BACnet Who-Is / I-Am discovery
+- ReadProperty objectName
+- ReadProperty objectList
+- ReadProperty presentValue
+- JSON output from BACnet reads
 
-![LogicLink Front](images/front-8098.png)
+## eisy Test Environment
 
----
+eisy IP:
 
-## Pump Portal (8080)
+```text
+192.168.1.173
 
-![Pump Portal](images/pump-8080.png)
 
----
-
-## Pool Controller (8081)
-
-![Pool Controller](images/controller-8081.png)
-
----
-
-## Scheduler (9090)
-
-![Scheduler](images/schedule-9090.png)
-
----
-
-## Current Features
-
-- Live equipment status
-- Pool temperatures
-- Air temperatures
-- Source temperatures
-- Filter PSI monitoring
-- Heater enable status
-- Heater firing status
-- Pump proof status
-- Pool light control
-- Schedule armed status
-- Local API integration
-- PG3/eisy node server integration
-
----
-
-## PG3 / eisy Integration
-
-The LogicLink Pool PG3 integration currently supports:
-
-- Live status updates
-- Equipment control commands
-- Local API communication
-- Admin Console status display
-- PG3 custom parameter configuration
-
----
-
-## Future Direction
-
-Future LogicLink development includes:
-
-- True BACnet discovery
-- BACnet application grouping
-- Unified frontend navigation
-- LogicLink controller builder integration
-- Multi-controller system architecture
-- Graphics/programming frontend
-- Additional automation systems
-
----
-
-## Development Status
-
-This repository contains an internal LogicLink development build intended for evaluation, testing, and integration development with authorized LogicLink hardware and controller systems.
-
-LogicLink hardware, firmware, and software are currently under active development and are not yet released as general-purpose consumer products.
-
-This software is tightly coupled to LogicLink controller architecture and is not intended to function as a standalone public solution without compatible LogicLink hardware, services, and supporting infrastructure.
-
-The repository is provided primarily for development documentation, architecture review, API integration reference, and UDI/eisy integration evaluation.
-
-## License
-
-See [LICENSE](LICENSE)
+#
+# LogicLink BACnet Priority Policy
+#
+# Dynamic Bridge uses BACnet Priority 3 for UDI/LogicLink supervisory commands.
+#
+# Priority Behavior:
+#
+#   P1-P2   Higher priority than Dynamic Bridge.
+#           Local operator is LOCKED OUT.
+#
+#   P3      Dynamic Bridge Local command.
+#           Used by UDI/LogicLink supervisory commands.
+#
+#   P4-P16  Lower priority than Dynamic Bridge.
+#           Dynamic Bridge may temporarily take ownership by
+#           writing Priority 3.
+#
+# When the Dynamic Bridge Priority 3 command is released, BACnet
+# automatically restores the highest remaining active
+# priority (for example an external Priority 9 command).
+#
+# This behavior follows the BACnet priority array standard
+# while providing predictable local operator control.
+#
